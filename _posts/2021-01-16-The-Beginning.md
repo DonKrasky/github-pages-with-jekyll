@@ -1,5 +1,5 @@
 ---
-title: "First-Post"
+title: "Hi"
 date: 2021-01-16
 ---
-A quick draft of my first blog post. 
+Every book is a childrens book, if the kid can read.
