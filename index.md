@@ -1,3 +1,3 @@
-# Welcome to my blog
+# "The First Step is to Begin"
 
-Bruh, this right here is the blog to read. It's more for me and what I like though.
+So here we go.
