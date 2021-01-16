@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+Bruh, this right here is the blog to read. It's more for me and what I like though.
