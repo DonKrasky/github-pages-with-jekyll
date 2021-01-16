@@ -3,17 +3,7 @@ theme: minima
 author: Don Krasky
 email: dkrasky@gmail.com.com
 description: > # this means to ignore newlines until "baseurl:"
-  Python will be used to model football statistics, or really whatever open data set I can find. The main goal will be to create an accessable machine learning platform for
-  contractors and others who wish to manage their own data. Residual plots will lead users through a tree to normalize data and refine model. Seems reasonable enough for now...
-  
-  The Unreal Engine seems like a good platform for a utility engineering software platform. Once conduits, pipes, utility poles, conductors and accessories have been made into
-  blocks physics can be added along with warning messages for overloaded areas. Solutions are usually simple in nature, things need to be bigger. These will also be included in
-  a final build.
-  
-  Much of today's software deliberately isolates the user from their data. This leads to simple linear fits that usually do quite well. However, I believe a better experience can 
-  be implemented.
-  
-  Mind you these are thoughts that haven't been researched or verified, solutions may already exist. I heard a quote recently that struck home: "The first step is to begin".
+  Hi, I'm Don Krasky; Surfer, Snowboarder, and Applied Mathematics Ph.D. These are my thoughts.
   
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
